@@ -1,4 +1,4 @@
-## 🖥️ BackEnd Development
+## 🖥️ BackEnd Developer
 As a **creative and quick backend developer**, I thrive on transforming innovative ideas into efficient and scalable solutions. My expertise lies in designing robust server-side architectures using languages such as **Java** and **Python**, along with frameworks like **Spring Boot**. I excel at developing RESTful APIs and microservices that enhance application performance and responsiveness.
 
 My agile approach allows me to quickly adapt to project requirements and deliver high-quality code within tight deadlines. I have a strong understanding of database management, utilizing **MySQL** to ensure data integrity and performance. With a focus on best practices and clean code, I prioritize both functionality and maintainability.
